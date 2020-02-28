@@ -1,4 +1,4 @@
-# Rakuten Intelligence interview test project (textParser)
+# Rakuten interview test project (html parser)
 
 ## Description
 
